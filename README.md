@@ -1,5 +1,10 @@
 # Change password
-  User Password Change Form using React and MaterialUI
+  User Password Change Form using React and MaterialUI (TextField, Snackbar, Alert)
+
+  ## Main view of the application
+<p align='center'>
+<img src='./src/media/screen1.png' width='600' alt='Main view of the application'>
+</p>
 
 In the project directory, you can run:
 
