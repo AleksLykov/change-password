@@ -1,13 +1,15 @@
 # Change password
   User Password Change Form using React and MaterialUI (TextField, Snackbar, Alert)
 
-The application uses validation of all required fields. Validates:
-    - empty required field
-    - mismatch of the current and new password
-    - match the new password and repeat the new password
-    - validation of backend responses is also provided
+The application uses validation of all required fields.
+Validates:<br>
+    - empty required field<br>
+    - mismatch of the current and new password<br>
+    - match the new password and repeat the new password<br>
+    - validation of backend responses is also provided<br>
 
-For validation errors, the field is highlighted in red and a warning message is displayed.
+For validation errors, the field is highlighted in red and a warning message is displayed.<br>
+It is also possible to change the type of header depending on the display of the password change page or the main page.
 
 
   ## Main view of the application
